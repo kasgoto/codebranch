@@ -2,4 +2,4 @@
 
 Стек: React, Vite, Tailwind, TS
 
-Live demo: https://kasgoto.github.io/codebranch/
+Демо: https://kasgoto.github.io/codebranch/
