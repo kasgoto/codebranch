@@ -6,7 +6,7 @@ const About = () => {
       id='about'
       className='text-center md:mt-[172px] mt-[80px] md:pb-[250px] pb-[100px] bg-aboutGradient'
     >
-      <div className='mx-auto max-w-screen-2xl container'>
+      <div className='mx-auto max-w-screen-2xl container xl:px-[60px]'>
         <h2 className='text-[36px]'>О нас</h2>
         <div className='md:p-[100px] p-[50px] bg-[#f6f6f6] rounded-[25px] md:mt-[60px] mt-[30px] flex flex-col lg:grid grid-cols-2 gap-y-10 gap-x-20 items-center justify-between text-black'>
           <AboutCard

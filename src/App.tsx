@@ -5,7 +5,7 @@ import Team from "./components/Team"
 function App() {
   return (
     <div className='font-kantumruy bg-[#1d1c24] h-full w-full text-white text-[24px]'>
-      <Header/>
+      <Header />
       <Team />
       <About />
     </div>
